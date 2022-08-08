@@ -10,6 +10,8 @@ https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
 
 2. Have monitor, keyboard and mouse to display and control nano
 
+3. USB camera connect to nano
+
 ## Installation
 ### Step1: Library installation
 1. cv2
