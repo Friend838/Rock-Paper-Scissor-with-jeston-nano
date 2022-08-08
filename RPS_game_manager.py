@@ -1,7 +1,5 @@
 import random
 import time
-import cv2
-import torch
 import mediapipe_detector as md
 
 TIME_DELTA = 0.5

@@ -1,11 +1,8 @@
-import sys
-import time
 import cv2
 import pygame
 import tkinter as tk
 import tkinter.messagebox as tkmb
 from PIL import Image, ImageTk
-import mediapipe_detector as md
 
 
 def define_layout(obj, cols=1, rows=1):
@@ -134,7 +131,7 @@ class mainWindow:
 
         define_layout(self.__window, cols=2, rows=4)
         define_layout(self.__info2_frame, cols=2)
-        
+
         # background music set up
         pygame.mixer.init()
         pygame.mixer.music.load("music.mp3")
