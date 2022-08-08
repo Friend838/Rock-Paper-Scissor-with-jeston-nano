@@ -38,7 +38,7 @@ Please refer reference 2
 1. Run code
 
 ```
-python3 mainWindow.py
+python3 GUI_class_organized.py
 ```
 
 2. Gameplay image
