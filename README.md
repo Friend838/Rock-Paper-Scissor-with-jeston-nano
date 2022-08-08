@@ -16,16 +16,17 @@ https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
 
 It should be already built in Jetpack
 
-tkinter
+2. tkinter
 
     sudo apt install python3-tk
 
-pygame
+3. pygame
 
     sudo apt install python3-pygame
 
-mediapipe
+4. mediapipe
 
+Please refer reference 2
 
 ### Step2: Run code and start playing
 1. Run code
@@ -33,6 +34,7 @@ mediapipe
     python3 mainWindow.py
 
 2. Gameplay image
+
 rock paper scissor
 
 ![rock](./readme_photo/rock.png)
