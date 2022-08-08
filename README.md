@@ -8,7 +8,7 @@
 
 https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
 
-2. Have monitor, keyboard and mouse to deisplay and control nano
+2. Have monitor, keyboard and mouse to display and control nano
 
 ## Installation
 ### Step1: Library installation
