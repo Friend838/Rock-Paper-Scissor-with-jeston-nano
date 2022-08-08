@@ -17,11 +17,9 @@ https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro
 It should be already built in Jetpack
 
 2. tkinter
-
     sudo apt install python3-tk
 
 3. pygame
-
     sudo apt install python3-pygame
 
 4. mediapipe
