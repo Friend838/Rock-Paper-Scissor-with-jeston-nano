@@ -20,11 +20,15 @@ It should be already built in Jetpack
 
 2. tkinter
 
-    sudo apt install python3-tk
+```
+sudo apt install python3-tk
+```
 
 3. pygame
 
-    sudo apt install python3-pygame
+```
+sudo apt install python3-pygame
+```
 
 4. mediapipe
 
@@ -33,7 +37,9 @@ Please refer reference 2
 ### Step2: Run code and start playing
 1. Run code
 
-    python3 mainWindow.py
+```
+python3 mainWindow.py
+```
 
 2. Gameplay image
 
